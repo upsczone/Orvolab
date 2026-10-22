@@ -1,0 +1,6 @@
+{
+  "name": "Orvo Lab - Research & Development",
+  "description": "An advanced research and development portal tracking interdisciplinary scientific investigations, ongoing projects, lead researchers, and real-time laboratory updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
